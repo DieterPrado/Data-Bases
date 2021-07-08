@@ -11,7 +11,7 @@
 
 ### General info
 
-This repository contains files and explanations of things learned in the Platzi's Data Bases course. Te repository taught about the dabases history, how to transform and normalize data with the 4 normal forms so the data can be used to create a functional database. It taught about entities and how they can be related with other elements, about ER diagrams and how to create, extract and filter information from a database using queries (using SELECT, FROM, WHERE, etc). It also taught about the basic sctructure and how non relational databases works. The files in this repository contain queries used during the course.
+This repository contains files and explanations of things learned in the Platzi's Data Bases course. The course taught about dabases history, how to transform and normalize data with the 4 normal forms so the data can be used to create a functional database. It taught about entities and how they can be related with other elements, about ER diagrams and how to create, extract and filter information from a database using queries (using SELECT, FROM, WHERE, etc). It also taught about the basic sctructure and how non relational databases works. The files in this repository contain queries used during the course.
 
 ------------
 
